@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.vscode/
+
+*.pyc
+*.pyo
+*.log
+
+.env
+credentials.json
+base64_*.txt
